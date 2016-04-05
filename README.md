@@ -3,15 +3,7 @@ The work-in-progress of Mark Miller's reflections and analysis of three semester
 
 The table of contents follows a conceptual ordering mimicked by the chronological development of the class. 
 
-* Previous Work
-* Philosophy of CS 196
-* Projects
-* Team Forming
-* Team Leading
-* Hackathons
-* Microlessons
-* Hackerspace / Office Hours
-* Magic
-* Homework
-* Future Work
-* Appendix A: Results
+As of Apr 4, there are:
+One passage written and edited, specifically Microlessons.
+Two passages only written
+Nine passages entirely unwritten
