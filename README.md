@@ -18,3 +18,4 @@ so I also make it important to include our reasoning because you should make the
 think like my hardware class - focus on the tradeoffs - trading complexity for runtime
 - what were the constraints were removed from the design of the class [as a nontraditional honors class]
 - what did that allow us to do?
+
