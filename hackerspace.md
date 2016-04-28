@@ -1,2 +1,5 @@
 # Hackerspace
 
+In Hackerspace, our analog to office hours, we have both the general question-and-answer-and-discussion format common to the other classes we had taken, but we also have workshops led by the student who gave a microlesson of the week. Because the students that attended Hackerspace had chosen to come that week, we could leverage the motivation the students had to make the learning more active. Instead of lecturing on another topic, the student who had given the microlesson drafted up a simple project in the field of the week and assisted the 6-10 students in completing the given project, or sometimes, a different but related project still in the field.
+
+In discussion with the Fall 2016, we decided the extra project model of Hackerspace is too difficult to execute upon. The Hackerspace project was an afterthrought for most of the lecturers. Instead, we will focus on hackerspace as our office hours for the homework we assigned. In the Spring 2016 semester, we assigned difficult homework and had many students attend office hours.
