@@ -1,7 +1,7 @@
 # Hackathons
 The secret sauce that CS 196 runs on is student engagement and excitement. We leverage student affect for both the microlessons and the project assignments. Other chances to bring more excitement to the students are valuable. Inspired by the hackathons on college campuses becoming more popular, we organize our own hackathons for students in CS 196 to work on their projects and have a fun time while doing so.
 
-In the common sense, hackathons are cross between a convention and a competition where dozens to hundreds of college students meet up, form teams, and build a program or app in twenty-four or thirty-six caffiene-infused hours. Often, software companies come to recruit or give their own prizes.
+Outside of CS 196, hackathons are a cross between a convention and a competition where dozens to hundreds of college students meet up, form teams, and build a program or app in twenty-four or thirty-six caffeine-infused hours. Often, software companies come to recruit or give their own prizes.
 
 We translate this hackathon mentality to CS 196 in our own hackathons. Students need to be working on their own project with their own team, so we do not adopt the teamforming and project ideating steps, but we do provide food and drinks. Some local companies have joined us for a few of the hackathons to see our students coding in a realistic environment.
 
