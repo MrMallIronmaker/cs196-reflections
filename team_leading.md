@@ -7,4 +7,4 @@ In the first semester, each project was split into smaller groups, each led by a
 
 In the second and third semesters, we had one person leading a team of 4 to 6 students. While we did not have systematic failures, where most teams encountered the same difficulties, we did encounter serious failures in which the project was derailed by a poor project manager. The project manager did not schedule meetings regularly, did not keep students on track, or became entirely unreachable.
 
-In this Spring 2016 semester, we have paired experienced project managers with new staff so they can learn to run a team by guide. [ responses. ]
+In this Spring 2016 semester, we have paired experienced project managers with new staff so they can learn to run a team by guide. Staff members had mixed reactions. Staff members like the flexibility it offered in scheduling and division of responsibilities, but noted that some students did not know which project manager to contact and some team dynamics were not constructive.
